@@ -1,2 +1,2 @@
-# Time_Series_Pred
+# Time Series Predictions
  Playground for time series prediction models
